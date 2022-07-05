@@ -1,0 +1,9 @@
+/.bsp/
+target/
+.bloop
+.metals
+.vscode
+metastore_db
+spark-warehouse
+derby.log
+metals.sbt
